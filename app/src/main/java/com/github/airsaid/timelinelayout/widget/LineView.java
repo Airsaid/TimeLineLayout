@@ -80,7 +80,7 @@ public class LineView extends View {
     }
 
     /**
-     * 绘制原点。
+     * 绘制圆点。
      */
     private void drawDot(Canvas c){
         mPaint.setColor(mDotColor);
