@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--时间轴样式布局-->
+    <declare-styleable name="TimeLineLayout">
+        <!--每行高度-->
+        <attr name="tll_height" format="dimension|reference"/>
+        <!--文字大小-->
+        <attr name="tll_textSize" format="dimension|reference"/>
+        <!--文字颜色-->
+        <attr name="tll_textColor" format="color|reference"/>
+        <!--文字和时间轴间距-->
+        <attr name="tll_padding" format="dimension|reference"/>
+        <!--时间轴圆点颜色-->
+        <attr name="tll_dotColor" format="color|reference"/>
+        <!--时间轴圆点半径-->
+        <attr name="tll_dotRadius" format="dimension|reference"/>
+        <!--时间线颜色-->
+        <attr name="tll_lineColor" format="color|reference"/>
+        <!--时间线宽度-->
+        <attr name="tll_lineWidth" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
