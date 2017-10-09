@@ -3,7 +3,7 @@ This is a timeline layout. (这是一个时间轴布局)
 
 ## 预览
 ![](https://github.com/Airsaid/TimeLineLayout/blob/master/preview/preview.gif)
-
+
 ## 使用
 - 布局中：
 ```
