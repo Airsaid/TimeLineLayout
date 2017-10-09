@@ -1,5 +1,5 @@
 # TimeLineLayout
-This is a timeline layout. (这是一个时间轴布局)
+This is a simple timeline layout that applies to less data. (这是一个简单的时间轴布局，适用于数据量少的情况)
 
 ## 预览
 ![](https://github.com/Airsaid/TimeLineLayout/blob/master/preview/preview.gif)
