@@ -20,7 +20,7 @@ import java.util.List;
  * @author airsaid
  * @github https://github.com/airsaid
  * @date 2017/9/30
- * @desc 时间轴样式布局。（只适用于数据量少情况，数据多请使用利用 RecyclerView 实现的时间轴。）
+ * @desc 时间轴样式布局。（只适用于数据量少情况，数据多建议使用利用 RecyclerView 实现的时间轴。）
  */
 public class TimeLineLayout extends LinearLayout {
 
